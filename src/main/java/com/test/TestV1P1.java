@@ -17,6 +17,7 @@ public class TestV1P1 {
         list1.add("test1");
         list1.add("test2");
         list1.add("test3");
+        list1.add("test4");
         for(String str : list1){
             System.out.println(str);
         }
