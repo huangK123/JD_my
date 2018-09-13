@@ -3,7 +3,13 @@ package com.test;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 自己测试git、maven、tomcat的类
+ * @author huangliming
+ * @date 2018/09/13
+ */
 public class TestV1P1 {
+
 
     public static void main(String args[]){
         System.out.println("test1");
